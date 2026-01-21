@@ -18,6 +18,9 @@ Table of contents
 
 ## Project Overview
 This repository contains exploratory data analysis, visualizations, and example analyses for Aadhaar (UIDAI) enrollment and demographic data. The work is organized as Jupyter notebooks that demonstrate data cleaning, aggregation, visual exploration, and basic modeling to surface trends, anomalies, and insights across states, age groups, genders, and enrollment channels.
+<img width="3118" height="1403" alt="Image" src="https://github.com/user-attachments/assets/c2e09bf4-cb3f-40ce-ade2-40ea53be82f9" />
+<img width="3002" height="1939" alt="Image" src="https://github.com/user-attachments/assets/6774095e-9322-431f-9d0f-21c25628d195" />
+
 
 > NOTE: This repository currently contains Jupyter Notebooks as the primary deliverable.
 
